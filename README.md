@@ -1,6 +1,6 @@
 # decimal-binaryConverter
 
-## Prerequisite 
+## Softwares needed
 Any compiler that can run the C language 
 
 **Note** : The max decimal value that can be converted is 999. 
